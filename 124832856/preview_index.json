@@ -1,0 +1,55 @@
+{
+  "qq_number": "3194598759",
+  "group_number": "124832856",
+  "updated_at": "2026-04-23T15:52:36.950345",
+  "skins": [
+    {
+      "name": "奶白心事",
+      "file": "奶白心事彩闷.bdi",
+      "thumb": "奶白心事彩闷.bdi_py_26_default_thumb.png",
+      "full": "奶白心事彩闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "心语甜味剂",
+      "file": "心语甜味剂彩.bdi",
+      "thumb": "心语甜味剂彩.bdi_py_26_default_thumb.png",
+      "full": "心语甜味剂彩.bdi_py_26_default.png"
+    },
+    {
+      "name": "心语甜味剂",
+      "file": "心语甜味剂融.bdi",
+      "thumb": "心语甜味剂融.bdi_py_26_default_thumb.png",
+      "full": "心语甜味剂融.bdi_py_26_default.png"
+    },
+    {
+      "name": "奶白心事",
+      "file": "奶白心事融闷.bdi",
+      "thumb": "奶白心事融闷.bdi_py_26_default_thumb.png",
+      "full": "奶白心事融闷.bdi_py_26_default.png"
+    },
+    {
+      "name": "奶白心事",
+      "file": "奶白心事融闷.bds",
+      "thumb": "奶白心事融闷.bds_py_26_default_thumb.png",
+      "full": "奶白心事融闷.bds_py_26_default.png"
+    },
+    {
+      "name": "心语甜味剂",
+      "file": "心语甜味剂彩.bds",
+      "thumb": "心语甜味剂彩.bds_py_26_default_thumb.png",
+      "full": "心语甜味剂彩.bds_py_26_default.png"
+    },
+    {
+      "name": "奶白心事",
+      "file": "奶白心事彩闷.bds",
+      "thumb": "奶白心事彩闷.bds_py_26_default_thumb.png",
+      "full": "奶白心事彩闷.bds_py_26_default.png"
+    },
+    {
+      "name": "心语甜味剂",
+      "file": "心语甜味剂融.bds",
+      "thumb": "心语甜味剂融.bds_py_26_default_thumb.png",
+      "full": "心语甜味剂融.bds_py_26_default.png"
+    }
+  ]
+}
