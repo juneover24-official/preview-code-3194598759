@@ -1,7 +1,7 @@
 {
   "qq_number": "3194598759",
   "group_number": "124832856",
-  "updated_at": "2026-04-23T15:52:36.950345",
+  "updated_at": "2026-06-24T00:29:59+00:00",
   "skins": [
     {
       "name": "奶白心事",
@@ -50,6 +50,12 @@
       "file": "心语甜味剂融.bds",
       "thumb": "心语甜味剂融.bds_py_26_default_thumb.png",
       "full": "心语甜味剂融.bds_py_26_default.png"
+    },
+    {
+      "name": "白桃奶芙",
+      "file": "白桃奶芙彩.bdi",
+      "thumb": "白桃奶芙彩.bdi_py_26_light_thumb.png",
+      "full": "白桃奶芙彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
